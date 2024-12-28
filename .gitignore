@@ -1,0 +1,7 @@
+data/
+.venv/
+*.gif
+*.png
+*.log
+downloaded_posts/
+media_files/
